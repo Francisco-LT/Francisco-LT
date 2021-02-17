@@ -8,7 +8,7 @@
 
 - 💬 Amo ajudar pessoas e sou um grande resolvedor de problemas.
 
-- 📫 Se queiser falar comigo me procure em **franciscoliratorres@gmail.com**
+- 📫 Fale comigo em **franciscoliratorres@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
