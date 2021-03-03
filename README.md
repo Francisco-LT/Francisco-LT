@@ -4,7 +4,7 @@
 
 
 
-- 🌱 Estou aprendendo **SQL**
+- 🌱 Estou aprendendo **SQL** e **Java**
 
 - 💬 Amo ajudar pessoas e sou um grande resolvedor de problemas.
 
