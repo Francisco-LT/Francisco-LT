@@ -1,12 +1,15 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/) -->
 
-<h3>Olá!! Me chamo Francisco Lira Torres, sou de Belo Horizonte, MG. Estou estudando na Trybe para me tornar um Desenvolvedor Full-Stack Junior</h2>
+<h3>Olá!! Me chamo Francisco Lira Torres, sou de Belo Horizonte, MG. </h3>
+
+Sou um engenheiro civil que está em busca de mudança de carreira.
+Estou estudando na **Trybe** para me tornar um **Desenvolvedor Full-Stack**
 
 
 
-- 🌱 Estou aprendendo **NodeJS** e **Java**
+- 🌱 Estou aprendendo **Python**
 
-- 💬 Amo ajudar pessoas e sou um grande resolvedor de problemas.
+- 💬 Amo ajudar pessoas, sou um grande resolvedor de problemas e busco aprender muito. 
 
 - 📫 Fale comigo em **franciscoliratorres@gmail.com**
 
