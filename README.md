@@ -2,12 +2,8 @@
 
 <h3>Olá!! Me chamo Francisco Lira Torres, sou de Belo Horizonte, MG. </h3>
 
-Sou um engenheiro civil que está em busca de mudança de carreira.
-Estou estudando na **Trybe** para me tornar um **Desenvolvedor Full-Stack**
+Atualmente trabalho na Accenture como Business Process Dev Analist.
 
-
-
-- 🌱 Estou aprendendo **Python**
 
 - 💬 Amo ajudar pessoas, sou um grande resolvedor de problemas e busco aprender muito. 
 
